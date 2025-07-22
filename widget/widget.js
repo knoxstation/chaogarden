@@ -46,7 +46,7 @@
 
           <div class="cw-links">
             <a href="${joinUrl}">How to join</a>
-            <a href="${aboutUrl}">What is this?</a>
+
           </div>
         </div>
       `;

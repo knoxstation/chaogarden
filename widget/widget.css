@@ -56,6 +56,7 @@
   color:var(--cw-link);
   text-decoration:none;
   font-weight:bold;
+  text-align: center;
 }
 .cw-nameplate a:hover{
   text-decoration:underline;
