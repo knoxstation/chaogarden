@@ -1,0 +1,26 @@
+.chao-webring{
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+  font-family:"MS UI Gothic", sans-serif;
+  line-height:1;
+}
+.chao-webring img{
+  display:block;
+  image-rendering: pixelated;
+}
+.cw-btn{
+  text-decoration:none;
+  font-size:18px;
+  line-height:1;
+  padding:0 4px;
+  user-select:none;
+}
+.cw-btn:hover{
+  transform: scale(1.2) rotate(-5deg);
+  transition: transform .1s;
+}
+.cw-home img:hover{
+  transform: scale(1.1);
+  transition: transform .1s;
+}
