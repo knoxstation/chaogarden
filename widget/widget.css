@@ -63,7 +63,7 @@
 
 .cw-chao {
   position: absolute;
-  top: 60%;
+  top: 65%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -79,7 +79,7 @@
 /* arrows */
 .cw-arrows{
   position:absolute;
-  top:70%;
+  top:65%;
   left:0;
   right:0;
   transform:translateY(-50%);
