@@ -31,7 +31,8 @@
       mount.innerHTML = `
         <div class="chao-webring" style="--cw-scale:${parseFloat(scaleAttr)};">
           <div class="cw-nameplate">
-            <span>${escapeHTML(me.name)}</span> is part of the Chao Garden!
+            <span>${escapeHTML(me.name)}</span> is part of the
+            <a href="link" target="_blank">Chao Garden</a>!
           </div>
 
           <div class="cw-arrows">
