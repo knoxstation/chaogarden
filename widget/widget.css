@@ -1,8 +1,8 @@
 :root{
   --cw-scale: 1;                 /* overridden inline */
   --cw-width: 260px;             /* overall widget width */
-  --cw-chao-w: 30px;
-  --cw-chao-h: 29px;
+  --cw-chao-w: 90px;
+  --cw-chao-h: 87px;
 
   --cw-font: "MS UI Gothic", sans-serif;
   --cw-text: #000;
