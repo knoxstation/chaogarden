@@ -92,7 +92,7 @@
   font-size:20px;
   line-height:34px;
   color:#fff;
-  background:linear-gradient(to bottom,var(--cw-green-1),var(--cw-green-2));
+  background:linear-gradient(to bottom,var(--cw-red-1),var(--cw-red-2));
   box-shadow:0 3px 5px rgba(0,0,0,.35), inset 0 1px 0 rgba(255,255,255,.6);
   transition:transform .12s, box-shadow .12s;
   text-decoration:none; display:inline-block; text-align:center;
