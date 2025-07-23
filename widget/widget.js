@@ -4,8 +4,8 @@
   const myUrlRaw  = script.getAttribute('data-site-url') || location.href;
   const myUrl     = myUrlRaw.replace(/\/$/, "");
   const scaleAttr = script.getAttribute('data-scale') || "1";
-  const joinUrl   = script.getAttribute('data-join-url') || "https://chaogarden.netlify.app/#join";
-  const aboutUrl  = script.getAttribute('data-about-url') || "https://chaogarden.netlify.app/#about";
+  const joinUrl   = script.getAttribute('data-join-url') || "https://knoxstation.neocities.org/chaogarden";
+  const aboutUrl  = script.getAttribute('data-about-url') || "https://knoxstation.neocities.org/chaogarden";
 
   const mount = script.previousElementSibling;
 
@@ -40,7 +40,7 @@
             <a class="cw-btn cw-next" href="${next.url}" aria-label="Next site">▶</a>
           </div>
 
-          <a class="cw-chao" href="https://chaogarden.netlify.app" title="Chao Webring home">
+          <a class="cw-chao" href="https://knoxstation.neocities.org/chaogarden" title="Chao Webring home">
             <img src="${me.chao}" width="30" height="29" alt="${escapeHTML(me.name)}'s chao">
           </a>
 
