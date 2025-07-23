@@ -6,6 +6,16 @@
     "tagline": "3D artist and Game Artist from Boston, MA",
     "chao": "https://chaogarden.netlify.app/chaos/knoxstation.png",
     "active": true,
+    "joined": "2025-07-20"
+
+  },
+  {
+    "id": "Micah",
+    "url": "https://micahvargas.com/",
+    "name": "Micah Vargas",
+    "tagline": "Programmer and Game Developer from MD",
+    "chao": "https://chaogarden.netlify.app/chaos/Micah.png",
+    "active": true,
     "joined": "2025-07-21"
 
   }
