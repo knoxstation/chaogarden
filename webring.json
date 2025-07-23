@@ -5,7 +5,8 @@
     "name": "Knoxstation",
     "tagline": "3D artist and Game Artist from Boston, MA",
     "chao": "https://chaogarden.netlify.app/chaos/knoxstation.png",
-    "active": true
+    "active": true,
+    "joined": "2025-07-21"
 
   },
   {
@@ -15,5 +16,6 @@
     "tagline": "my skibidi",
     "chao": "https://chaogarden.netlify.app/chaos/micah.png",
     "active": true
+    "joined": "2025-07-23"
   }
 ]
