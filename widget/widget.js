@@ -1,7 +1,9 @@
 (() => {
   const script = document.currentScript;
   const dataUrl   = script.getAttribute('data-webring');
-  const myUrlRaw  = script.getAttribute('data-site-url') || location.href;
+  const myUrlRaw  = (document.referrer||"").replace(/\/$/, "") 
+                || script.getAttribute('data-site-url') 
+                || location.href;
   const myUrl     = myUrlRaw.replace(/\/$/, "");
   const scaleAttr = script.getAttribute('data-scale') || "1";
   const joinUrl   = script.getAttribute('data-join-url') || "https://knoxstation.neocities.org/chaogarden";
