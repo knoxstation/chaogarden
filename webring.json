@@ -63,5 +63,14 @@
     "chao": "https://chaogarden.netlify.app/chaos/owthehedge.png",
     "active": true,
     "joined": "2025-07-24T17:08:00-04:00"
+  },
+ {
+    "id": "soulkuiro",
+    "url": "https://soulkuiro.neocities.org",
+    "name": "soulkuiro",
+    "tagline": "casual digital artist with a personal site goin' for a y2k vibe.",
+    "chao": "https://chaogarden.netlify.app/chaos/soulkuiro.png",
+    "active": true,
+    "joined": "2025-07-24T17:48:00-04:00"
   }
 ]
