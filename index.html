@@ -3,19 +3,17 @@
 <head>
   <meta charset="UTF-8" />
   <title>Chao Garden Widget</title>
-  <!-- point to your CSS -->
+  <!-- now pointing into widget/ -->
   <link rel="stylesheet" href="widget/widget.css" />
-  <!-- any meta/CSP you want -->
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 </head>
 <body>
-  <!-- your widget’s mount point -->
   <div id="chao-root"></div>
 
-  <!-- your JS -->
-  <script src="assets/widget.js"></script>
+  <!-- pull in your script from widget/ -->
+  <script src="widget/widget.js"></script>
   <script>
-    // however your widget bootstraps:
+    // bootstrap your widget as before
     initChaoWidget(document.getElementById('chao-root'));
   </script>
 </body>
