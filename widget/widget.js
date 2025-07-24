@@ -24,7 +24,6 @@
 
   async function init(){
     if (!mount) return;
-
     try {
       const res  = await fetch(dataUrl, { cache: 'no-cache' });
       if (!res.ok) throw new Error(`Failed to load webring.json (${res.status})`);
@@ -46,23 +45,24 @@
         <div class="chao-webring" style="--cw-scale:${parseFloat(scaleAttr)};">
           <div class="cw-nameplate">
             <span>${escapeHTML(me.name)}</span> is part of the
-            <a href="https://knoxstation.neocities.org/chaogarden" target="_blank">Chao Garden</a>!
+            <a href="https://knoxstation.neocities.org/chaogarden" target="_blank" rel="noopener noreferrer">
+              Chao Garden
+            </a>!
           </div>
           <div class="cw-arrows">
-            <a class="cw-btn cw-prev" href="${prev.url}" aria-label="Previous site">◀</a>
-            <a class="cw-btn cw-next" href="${next.url}" aria-label="Next site">▶</a>
+            <a class="cw-btn cw-prev" href="${prev.url}" target="_blank" rel="noopener noreferrer" aria-label="Previous site">◀</a>
+            <a class="cw-btn cw-next" href="${next.url}" target="_blank" rel="noopener noreferrer" aria-label="Next site">▶</a>
           </div>
-          <a class="cw-chao" href="https://knoxstation.neocities.org/chaogarden" title="Chao Webring home">
+          <a class="cw-chao" href="https://knoxstation.neocities.org/chaogarden" title="Chao Webring home" target="_blank" rel="noopener noreferrer">
             <img src="${me.chao}" width="30" height="29" alt="${escapeHTML(me.name)}'s chao">
           </a>
           <div class="cw-links">
-            <a href="${joinUrl}">How to join</a>
+            <a href="${joinUrl}" target="_blank" rel="noopener noreferrer">How to join</a>
           </div>
         </div>
       `;
 
       injectCSS();
-
     } catch(err) {
       console.error('WEBRING ERROR:', err);
       mount.textContent = 'Webring load error.';
