@@ -8,13 +8,16 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 </head>
 <body>
-  <div id="chao-root"></div>
+<div id="chao-root"></div>
 
-  <!-- pull in your script from widget/ -->
-  <script src="widget/widget.js"></script>
-  <script>
-    // bootstrap your widget as before
-    initChaoWidget(document.getElementById('chao-root'));
-  </script>
+<script
+  src="widget/widget.js"
+  data-webring="/webring.json"
+  data-site-url="https://chaogarden.netlify.app"
+  data-join-url="https://chaogarden.netlify.app/join"
+  data-about-url="https://chaogarden.netlify.app/about"
+></script>
+
+
 </body>
 </html>
