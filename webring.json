@@ -54,5 +54,14 @@
     "chao": "https://chaogarden.netlify.app/chaos/ChocolateHexer.png",
     "active": true,
     "joined": "2025-07-24T17:04:00-04:00"
+  },
+       {
+    "id": "Crow owthehedge",
+    "url": "https://owthehedge.nekoweb.org",
+    "name": "Crow owthehedge",
+    "tagline": "2D artist and overall funky critter",
+    "chao": "https://chaogarden.netlify.app/chaos/owthehedge.png",
+    "active": true,
+    "joined": "2025-07-24T17:08:00-04:00"
   }
 ]
