@@ -18,5 +18,15 @@
     "active": true,
     "joined": "2025-07-21"
 
+  },
+  {
+    "id": "ARMXND.io",
+    "url": "https://armxnd.neocities.org/",
+    "name": "ARMXND.io",
+    "tagline": "Neon Green enthusiast from the 1900s.",
+    "chao": "https://chaogarden.netlify.app/chaos/ARMXNDio.png",
+    "active": true,
+    "joined": "2025-07-21"
+
   }
 ]
