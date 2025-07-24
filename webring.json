@@ -21,7 +21,7 @@
   },
   {
     "id": "ARMXND.io",
-    "url": "https://armxnd.neocities.org",
+    "url": "https://armxnd.neocities.org/",
     "name": "ARMXND.io",
     "tagline": "Neon Green enthusiast from the 1900s.",
     "chao": "https://chaogarden.netlify.app/chaos/ARMXNDio.png",
@@ -30,11 +30,11 @@
 
   },
     {
-    "id": "Blaze",
-    "url": "https://blazermaze.neocities.org",
-    "name": "Blaze",
-    "tagline": "I'm a fandom artist that loves all things retro! B)",
-    "chao": "https://chaogarden.netlify.app/chaos/Blaze.png",
+    "id": "Estra",
+    "url": "https://estra.neocities.org",
+    "name": "Estra",
+    "tagline": "Im an Utauloid",
+    "chao": "https://chaogarden.netlify.app/chaos/estra.png",
     "active": true,
     "joined": "2025-07-23T22:28:00-04:00"
 
