@@ -15,18 +15,8 @@
     "name": "Micah Vargas",
     "tagline": "Programmer and Game Developer from MD",
     "chao": "https://chaogarden.netlify.app/chaos/Micah.png",
-    "active": true,
+    "active": false,
     "joined": "2025-07-23T17:54:00-04:00"
-
-  },
-  {
-    "id": "Estra",
-    "url": "https://estra.neocities.org",
-    "name": "Estra",
-    "tagline": "Test",
-    "chao": "https://chaogarden.netlify.app/chaos/estra.png",
-    "active": true,
-    "joined": "2025-07-24T17:54:00-04:00"
 
   }
 ]
