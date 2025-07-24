@@ -28,5 +28,15 @@
     "active": true,
     "joined": "2025-07-23T20:41:00-04:00"
 
+  },
+    {
+    "id": "Blaze",
+    "url": "https://blazermaze.neocities.org/",
+    "name": "Blaze",
+    "tagline": "I'm a fandom artist that loves all things retro! B)",
+    "chao": "https://chaogarden.netlify.app/chaos/Blaze.png",
+    "active": true,
+    "joined": "2025-07-23T22:28:00-04:00"
+
   }
 ]
