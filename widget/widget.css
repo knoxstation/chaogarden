@@ -130,8 +130,6 @@
   text-decoration:underline;
 }
 
-
-
 #chao-root {
   width: 196px;
   height: 196px;
@@ -143,8 +141,6 @@
   position: absolute;
   top: 50%;
   left: 50%;
-  /* first translate to true center, then pull up 40% (instead of 50%) */
-  transform: translate(-50%, -40%) scale(var(--cw-scale));
+  transform: translate(-50%, -50%) scale(var(--cw-scale));
   transform-origin: center center;
 }
-
