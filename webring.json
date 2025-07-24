@@ -11,7 +11,7 @@
   },
   {
     "id": "Micah",
-    "url": "https://micahvargas.com/",
+    "url": "https://micahvargas.com",
     "name": "Micah Vargas",
     "tagline": "Programmer and Game Developer from MD",
     "chao": "https://chaogarden.netlify.app/chaos/Micah.png",
@@ -21,7 +21,7 @@
   },
   {
     "id": "ARMXND.io",
-    "url": "https://armxnd.neocities.org/",
+    "url": "https://armxnd.neocities.org",
     "name": "ARMXND.io",
     "tagline": "Neon Green enthusiast from the 1900s.",
     "chao": "https://chaogarden.netlify.app/chaos/ARMXNDio.png",
@@ -31,7 +31,7 @@
   },
     {
     "id": "Blaze",
-    "url": "https://blazermaze.neocities.org/",
+    "url": "https://blazermaze.neocities.org",
     "name": "Blaze",
     "tagline": "I'm a fandom artist that loves all things retro! B)",
     "chao": "https://chaogarden.netlify.app/chaos/Blaze.png",
