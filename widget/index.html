@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Chao Garden Widget</title>
+  <!-- point to your CSS -->
+  <link rel="stylesheet" href="assets/widget.css" />
+  <!-- any meta/CSP you want -->
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+</head>
+<body>
+  <!-- your widget’s mount point -->
+  <div id="chao-root"></div>
+
+  <!-- your JS -->
+  <script src="assets/widget.js"></script>
+  <script>
+    // however your widget bootstraps:
+    initChaoWidget(document.getElementById('chao-root'));
+  </script>
+</body>
+</html>
