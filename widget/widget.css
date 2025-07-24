@@ -38,13 +38,12 @@
   top: 12px;
   left: 50%;
   transform: translateX(-50%);
-  /* 100% minus 24px gives 12px margin left & right */
   width: calc(100% - 24px);
   box-sizing: border-box;
   background: #fff;
   border: 2px solid var(--cw-border);
   border-radius: 4px;
-  padding: 6px 12px 8px;  /* more horizontal padding so text never touches */
+  padding: 6px 12px 8px;
   font-size: 15px;
   line-height: 1.3;
   text-align: center;
@@ -128,17 +127,27 @@
   text-decoration:underline;
 }
 
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+
 #chao-root {
+  position: absolute;
+  top: 0;
+  left: 0;
   width: var(--cw-size);
   height: var(--cw-size);
-  position: relative;
   overflow: hidden;
 }
 
+
 .chao-webring {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%) scale(var(--cw-scale));
-  transform-origin: center center;
+  top: 0;
+  left: 0;
+  transform: scale(var(--cw-scale));
+  transform-origin: top left;
 }
