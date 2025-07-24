@@ -129,3 +129,20 @@
 .cw-links a:hover{
   text-decoration:underline;
 }
+
+
+#chao-root {
+  width: 196px;
+  height: 196px;
+  position: relative;
+  overflow: hidden;
+}
+
+
+.chao-webring {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(var(--cw-scale));
+  transform-origin: center center;
+}
