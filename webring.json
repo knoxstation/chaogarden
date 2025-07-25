@@ -75,11 +75,20 @@
   },
   {
     "id": "evehibi",
-    "url": "https://evehibi.nekoweb.org/",
+    "url": "https://evehibi.nekoweb.org",
     "name": "evehibi",
     "tagline": "local crob player who is obsessed with cute things",
     "chao": "https://chaogarden.netlify.app/chaos/evehibi.png",
     "active": true,
     "joined": "2025-07-24T19:58:00-04:00"
+  },
+    {
+    "id": "Rufuyun",
+    "url": "https://rufuyun.neocities.org",
+    "name": "Rufuyun",
+    "tagline": "Marxist, programmer, Chinese learner and lover of humanity <3",
+    "chao": "https://chaogarden.netlify.app/chaos/Rufuyun.png",
+    "active": true,
+    "joined": "2025-07-24T20:17:00-04:00"
   }
 ]
