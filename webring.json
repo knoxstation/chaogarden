@@ -109,5 +109,14 @@
     "chao": "https://chaogarden.netlify.app/chaos/Kimt1nez.png",
     "active": true,
     "joined": "2025-07-25T14:23:00-04:00"
+  },
+        {
+    "id": "grani",
+    "url": "https://grani.nekoweb.org",
+    "name": "grani",
+    "tagline": "digital artist that loves digital monsters ^_^",
+    "chao": "https://chaogarden.netlify.app/chaos/grani.png",
+    "active": true,
+    "joined": "2025-07-26T02:40:00-04:00"
   }
 ]
