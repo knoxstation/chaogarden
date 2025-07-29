@@ -136,5 +136,14 @@
     "chao": "https://chaogarden.netlify.app/chaos/Parfait.png",
     "active": true,
     "joined": "2025-07-28T21:24:00-04:00"
+  },
+  {
+    "id": "moelle",
+    "url": "https://liashess.neocities.org",
+    "name": "moelle",
+    "tagline": "Artist and 00's web-gloss enthusiast from Bern <3",
+    "chao": "https://chaogarden.netlify.app/chaos/moelle.png",
+    "active": true,
+    "joined": "2025-07-29T12:43:00-04:00"
   }
 ]
