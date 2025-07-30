@@ -145,5 +145,14 @@
     "chao": "https://chaogarden.netlify.app/chaos/moelle.png",
     "active": true,
     "joined": "2025-07-29T12:43:00-04:00"
+  },
+  {
+    "id": "Oli Storm",
+    "url": "https://olistormarts.neocities.org",
+    "name": "Oli Storm",
+    "tagline": "A messy little internet love letter to Sonic",
+    "chao": "https://chaogarden.netlify.app/chaos/Olistorm.png",
+    "active": true,
+    "joined": "2025-07-30T11:44:00-04:00"
   }
 ]
