@@ -163,5 +163,14 @@
     "chao": "https://chaogarden.netlify.app/chaos/NiboNubo.png",
     "active": true,
     "joined": "2025-08-01T10:18:00-04:00"
+  },
+  {
+    "id": "tesseractsys",
+    "url": "https://tesseractcube.neocities.org",
+    "name": "tesseractsys",
+    "tagline": "personal website of a silly system",
+    "chao": "https://chaogarden.netlify.app/chaos/tesseractsys.png",
+    "active": true,
+    "joined": "2025-08-01T10:23:00-04:00"
   }
 ]
