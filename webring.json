@@ -25,7 +25,7 @@
     "name": "ARMXND.io",
     "tagline": "Neon Green enthusiast from the 1900s.",
     "chao": "https://chaogarden.netlify.app/chaos/ARMXNDio.png",
-    "active": true,
+    "active": false,
     "joined": "2025-07-23T20:08:00-04:00"
   },
     {
@@ -154,5 +154,14 @@
     "chao": "https://chaogarden.netlify.app/chaos/Olistorm.png",
     "active": true,
     "joined": "2025-07-30T11:44:00-04:00"
+  },
+  {
+    "id": "NiboNubo",
+    "url": "https://nibonubo.neocities.org",
+    "name": "NiboNubo",
+    "tagline": "My attempt at a site despite having too many interests",
+    "chao": "https://chaogarden.netlify.app/chaos/NiboNubo.png",
+    "active": true,
+    "joined": "2025-08-01T10:18:00-04:00"
   }
 ]
