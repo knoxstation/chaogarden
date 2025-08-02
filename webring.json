@@ -172,5 +172,14 @@
     "chao": "https://chaogarden.netlify.app/chaos/tesseractsys.png",
     "active": true,
     "joined": "2025-08-01T10:23:00-04:00"
+  },
+  {
+    "id": "goatgirlclover",
+    "url": "https://goatgirl.nekoweb.org",
+    "name": "goatgirlclover",
+    "tagline": "personal site full of furry art and whatever else i find neat!",
+    "chao": "https://chaogarden.netlify.app/chaos/goatgirlclover.png",
+    "active": true,
+    "joined": "2025-08-02T12:52:00-04:00"
   }
 ]
