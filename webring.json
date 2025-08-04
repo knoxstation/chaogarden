@@ -181,5 +181,14 @@
     "chao": "https://chaogarden.netlify.app/chaos/goatgirlclover.png",
     "active": true,
     "joined": "2025-08-02T12:52:00-04:00"
+  },
+  {
+    "id": "Kolala",
+    "url": "https://kolala.neocities.org",
+    "name": "Kolala",
+    "tagline": "Personal site where I try to code my own games while blogging about other games/code (mainly)",
+    "chao": "https://chaogarden.netlify.app/chaos/Kolala.png",
+    "active": true,
+    "joined": "2025-08-04T19:00:00-04:00"
   }
 ]
