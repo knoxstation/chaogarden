@@ -25,7 +25,7 @@
     "name": "ARMXND.io",
     "tagline": "Neon Green enthusiast from the 1900s.",
     "chao": "https://chaogarden.netlify.app/chaos/ARMXNDio.png",
-    "active": false,
+    "active": true,
     "joined": "2025-07-23T20:08:00-04:00"
   },
     {
@@ -172,5 +172,32 @@
     "chao": "https://chaogarden.netlify.app/chaos/tesseractsys.png",
     "active": true,
     "joined": "2025-08-01T10:23:00-04:00"
+  },
+  {
+    "id": "goatgirlclover",
+    "url": "https://goatgirl.nekoweb.org",
+    "name": "goatgirlclover",
+    "tagline": "personal site full of furry art and whatever else i find neat!",
+    "chao": "https://chaogarden.netlify.app/chaos/goatgirlclover.png",
+    "active": true,
+    "joined": "2025-08-02T12:52:00-04:00"
+  },
+  {
+    "id": "Kolala",
+    "url": "https://kolala.neocities.org",
+    "name": "Kolala",
+    "tagline": "Personal site where I try to code my own games while blogging about other games/code (mainly)",
+    "chao": "https://chaogarden.netlify.app/chaos/Kolala.png",
+    "active": true,
+    "joined": "2025-08-04T19:00:00-04:00"
+  },
+  {
+    "id": "SpineBreaker",
+    "url": "https://spinebreaker.neocities.org",
+    "name": "SpineBreaker",
+    "tagline": "Drawing, gaming, blogging ....!",
+    "chao": "https://chaogarden.netlify.app/chaos/SpineBreaker.png",
+    "active": true,
+    "joined": "2025-08-04T19:07:00-04:00"
   }
 ]
