@@ -199,5 +199,14 @@
     "chao": "https://chaogarden.netlify.app/chaos/SpineBreaker.png",
     "active": true,
     "joined": "2025-08-04T19:07:00-04:00"
+  },
+  {
+    "id": "mae_h",
+    "url": "https://maehat.neocities.org",
+    "name": "mae_h",
+    "tagline": "hat with robot arms trying to make something cool...",
+    "chao": "https://chaogarden.netlify.app/chaos/mae_h.png",
+    "active": true,
+    "joined": "2025-08-06T21:55:00-04:00"
   }
 ]
