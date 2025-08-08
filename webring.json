@@ -217,5 +217,14 @@
     "chao": "https://chaogarden.netlify.app/chaos/DiATZK.png",
     "active": true,
     "joined": "2025-08-07T16:26:00-04:00"
+  },
+  {
+    "id": "BibiNeko",
+    "url": "https://bibineko.neocities.org",
+    "name": "BibiNeko",
+    "tagline": "A Personal Website with Cute Stuff",
+    "chao": "https://chaogarden.netlify.app/chaos/BibiNeko.png",
+    "active": true,
+    "joined": "2025-08-07T20:40:00-04:00"
   }
 ]
