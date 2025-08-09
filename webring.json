@@ -226,5 +226,14 @@
     "chao": "https://chaogarden.netlify.app/chaos/BibiNeko.png",
     "active": true,
     "joined": "2025-08-07T20:40:00-04:00"
+  },
+  {
+    "id": "DavidUternal",
+    "url": "https://uternal-nightmare.neocities.org",
+    "name": "DavidUternal",
+    "tagline": "Personal site of art and coding projects",
+    "chao": "https://chaogarden.netlify.app/chaos/DavidUternal.png",
+    "active": true,
+    "joined": "2025-08-08T22:25:00-04:00"
   }
 ]
