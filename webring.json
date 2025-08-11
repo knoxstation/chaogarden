@@ -235,5 +235,14 @@
     "chao": "https://chaogarden.netlify.app/chaos/DavidUternal.png",
     "active": true,
     "joined": "2025-08-08T22:25:00-04:00"
+  },
+  {
+    "id": "3dgoose",
+    "url": "https://3dgoose.neocities.org",
+    "name": "3dgoose",
+    "tagline": "I code so good even the compiler thanks me.",
+    "chao": "https://chaogarden.netlify.app/chaos/3dgoose.png",
+    "active": true,
+    "joined": "2025-08-011T13:07:00-04:00"
   }
 ]
