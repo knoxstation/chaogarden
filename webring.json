@@ -244,5 +244,14 @@
     "chao": "https://chaogarden.netlify.app/chaos/3dgoose.png",
     "active": true,
     "joined": "2025-08-011T13:07:00-04:00"
+  },
+  {
+    "id": "princess chainsaw",
+    "url": "https://princesschainsaw.neocities.org/",
+    "name": "princess chainsaw",
+    "tagline": "manic pixie sparkle dog",
+    "chao": "https://chaogarden.netlify.app/chaos/princesschainsaw.png",
+    "active": true,
+    "joined": "2025-08-201T13:59:00-04:00"
   }
 ]
