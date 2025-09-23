@@ -280,5 +280,14 @@
     "chao": "https://chaogarden.netlify.app/chaos/nolichao.png",
     "active": true,
     "joined": "2025-09-23T19:43:00-04:00"
+  },
+  {
+    "id": "angel",
+    "url": "https://angelnetcast.com",
+    "name": "angel",
+    "tagline": "webmaster that is 50% computer and 50% cat",
+    "chao": "https://chaogarden.netlify.app/chaos/angel.png",
+    "active": true,
+    "joined": "2025-09-23T19:49:00-04:00"
   }
 ]
