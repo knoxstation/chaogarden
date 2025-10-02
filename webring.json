@@ -298,5 +298,14 @@
     "chao": "https://chaogarden.netlify.app/chaos/beauchao.png",
     "active": true,
     "joined": "2025-09-24T15:28:00-04:00"
+  },
+  {
+    "id": "LoAndBiHold",
+    "url": "https://loandbihold.neocities.org",
+    "name": "LoAndBiHold",
+    "tagline": "A personal site to put my favorite things ♥",
+    "chao": "https://chaogarden.netlify.app/chaos/LoAndBiHold.png",
+    "active": true,
+    "joined": "2025-10-02T15:28:00-04:00"
   }
 ]
