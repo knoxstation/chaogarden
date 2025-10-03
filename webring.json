@@ -307,5 +307,14 @@
     "chao": "https://chaogarden.netlify.app/chaos/LoAndBiHold.png",
     "active": true,
     "joined": "2025-10-02T15:28:00-04:00"
+  },
+  {
+    "id": "charlie",
+    "url": "https://charlie.ohlgren.me",
+    "name": "charlie",
+    "tagline": "my personal website",
+    "chao": "https://chaogarden.netlify.app/chaos/charlie.png",
+    "active": true,
+    "joined": "2025-10-03T15:28:00-04:00"
   }
 ]
