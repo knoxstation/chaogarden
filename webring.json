@@ -325,5 +325,41 @@
     "chao": "https://chaogarden.netlify.app/chaos/veil.png",
     "active": true,
     "joined": "2025-10-21T15:28:00-04:00"
+  },
+  {
+    "id": "GamepadStudios",
+    "url": "https://gamepadstudios.neocities.org",
+    "name": "GamepadStudios",
+    "tagline": "Games, music, art, millions of projects but no time for them.",
+    "chao": "https://chaogarden.netlify.app/chaos/gamepad.png",
+    "active": true,
+    "joined": "2025-11-08T15:28:00-04:00"
+  },
+    {
+    "id": "Marta",
+    "url": "https://sonechka.bouvardia.blue",
+    "name": "Marta",
+    "tagline": "a personal site, mostly for book reviews.",
+    "chao": "https://chaogarden.netlify.app/chaos/marta.png",
+    "active": true,
+    "joined": "2025-11-08T15:28:01-04:00"
+  },
+    {
+    "id": "Demi",
+    "url": "https://demisdesignart.neocities.org",
+    "name": "🌐⋆｡°Demi's Blog Site ^-^",
+    "tagline": "this site is a blog, art, graphic design also showing my ocs here related site ^-^",
+    "chao": "https://chaogarden.netlify.app/chaos/demi.png",
+    "active": true,
+    "joined": "2025-11-08T15:28:02-04:00"
+  },
+    {
+    "id": "camby",
+    "url": "https://mitadpunketo.nekoweb.org",
+    "name": "camby",
+    "tagline": "Personal webbie where I blog, share my art (WIP), and 90s/00s enthusiast ! :3",
+    "chao": "https://chaogarden.netlify.app/chaos/camby.png",
+    "active": true,
+    "joined": "2025-11-08T15:28:00-05:00"
   }
 ]
