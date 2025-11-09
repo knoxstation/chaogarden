@@ -1,7 +1,7 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    # Allow other sites to iframe your widget
+    # Allow other sites to iframe
     X-Frame-Options = ""
-    # Let your widget fetch its own data and load images
+    # Lets widget fetch its own data and load images
     Content-Security-Policy = "default-src 'self'; script-src 'self'; style-src 'self'; connect-src 'self' https://api.yourdomain.com; img-src 'self' data: https:; frame-ancestors *;"

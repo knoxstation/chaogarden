@@ -2,18 +2,16 @@
   const script      = document.currentScript;
   const dataUrl     = script.getAttribute('data-webring');
 
-  // 1) grab ?site=… if present
+  
   const urlParams   = new URLSearchParams(location.search);
   const paramSite   = urlParams.get('site');
 
-  // 2) allow a hard‑coded override via data-site-url
   const scriptSite  = script.getAttribute('data-site-url');
 
-  // 3) fallback to referrer (for script‑tag embeds), then location.href
+
   const referrer    = (document.referrer || '').replace(/\/$/, '');
   const loc         = location.href.replace(/\/$/, '');
 
-  // 4) choose in order: query‑param → attr → referrer → own URL
   const myUrl       = (paramSite || scriptSite || referrer || loc).replace(/\/$/, '');
 
   const scaleAttr   = script.getAttribute('data-scale')   || '1';
@@ -78,7 +76,6 @@
     document.head.appendChild(link);
   }
 
-  // super basic escape to avoid any weird chars breaking HTML
   function escapeHTML(str){
     return (str||'').replace(/[&<>"']/g, m => ({
       '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;'
