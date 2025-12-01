@@ -351,5 +351,23 @@
     "chao": "https://chaogarden.netlify.app/chaos/camby.png",
     "active": true,
     "joined": "2025-11-08T15:28:03-05:00"
+  },
+  {
+    "id": "Matthew",
+    "url": "https://mattware.nekoweb.org",
+    "name": "Matthew",
+    "tagline": "i was bored so i made a website",
+    "chao": "https://chaogarden.netlify.app/chaos/matt_chao.png",
+    "active": true,
+    "joined": "2025-12-01T12:59:03-05:00"
+  },
+  {
+    "id": "Matthew",
+    "url": "https://mattware.nekoweb.org",
+    "name": "Matthew",
+    "tagline": "i was bored so i made a website",
+    "chao": "https://chaogarden.netlify.app/chaos/matt_chao.png",
+    "active": true,
+    "joined": "2025-12-01T12:59:03-05:00"
   }
 ]
