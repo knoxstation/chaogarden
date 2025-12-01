@@ -365,9 +365,18 @@
     "id": "hmmll",
     "url": "https://hml.nekoweb.org",
     "name": "hmmll",
-    "tagline": "i was bored so i made a website",
+    "tagline": "The personal website",
     "chao": "https://chaogarden.netlify.app/chaos/boIZfW3.png",
     "active": true,
     "joined": "2025-12-01T13:05:03-05:00"
+  },
+  {
+    "id": "GrubDog",
+    "url": "https://the-grub-grotto.neocities.org",
+    "name": "GrubDog",
+    "tagline": "A little zone where I blog, post my art, and make pages about my hyperfixations!!",
+    "chao": "https://chaogarden.netlify.app/chaos/grub.png",
+    "active": true,
+    "joined": "2025-12-01T13:08:03-05:00"
   }
 ]
