@@ -378,5 +378,14 @@
     "chao": "https://chaogarden.netlify.app/chaos/grub.png",
     "active": true,
     "joined": "2025-12-01T13:08:03-05:00"
+  },
+  {
+    "id": "beanie",
+    "url": "https://sproutvale.nekoweb.org",
+    "name": "beanie",
+    "tagline": "my personal site for talking about games, music, art, and especially MLP!",
+    "chao": "https://chaogarden.netlify.app/chaos/beanie.png",
+    "active": true,
+    "joined": "2025-12-01T13:12:03-05:00"
   }
 ]
